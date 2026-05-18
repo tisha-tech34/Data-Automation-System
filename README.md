@@ -13,7 +13,7 @@ Run: ./Hospital_App.sh
 How to Run:
 Follow these steps to set up the application on your Linux system:
 
-​Step 1: Clone the Repository​Open your terminal and run: git clone https://github.com/your-username/Hospital-Secure-System.git cd Hospital-Secure-System
+​Step 1: Clone the Repository​Open your terminal and run: git clone https://github.com/tisha-tech34/Data-Automation-System.git cd Hospital-Secure-System
 
 Step 2: Install Required Libraries​This app requires cryptography and requests. Install them using: pip install cryptography requests
 
